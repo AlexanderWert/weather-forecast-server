@@ -11,8 +11,7 @@ from weather_forecast_server import weather
 
 # Create MCP server instance
 mcp = FastMCP(
-    name="WeatherForecastServer",
-    description="Get weather forecast information using wttr.in service",
+    name="WeatherForecastServer"
 )
 
 
